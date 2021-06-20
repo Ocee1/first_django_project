@@ -1,2 +1,2 @@
-* linguist-vendored
-* .py linguist-vendored=false
+*linguist-vendored
+*.js linguist-vendored=false
